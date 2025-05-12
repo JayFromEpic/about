@@ -18,6 +18,7 @@
   </p>
 
 <br />
+
 # About Jay Dubinsky
 In short, I'm a techie at heart with a strong passion for business. Throughout my career, I've founded several technology companies and led Customer Success, Customer Experience, and Product Management organizations of various sizes.
 
