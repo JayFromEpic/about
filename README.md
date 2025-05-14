@@ -24,22 +24,24 @@
 In short, I'm a techie at heart with a strong passion for business. Throughout my career, I've founded several technology companies and led Customer Success, Customer Experience, and Product Management organizations of various sizes.
 
 My passion lies in leveraging advanced technologies to deliver exceptional end-user products and experiences that solve complex challenges.
+<br />
 
 ## Contacting Me
 
 Feel free to reach out to me via LinkedIn or schedule time for us to connect by <a href="https://cal.com/yajdotnet">CLICKING HERE.</a>
+<br />
 
 ## Experience
 
-In progress
-
+Please review my <a href="https://www.linkedin.com/in/yajdotnet/">LinkedIn</a> for the most up-to-date version of my resume and experiences.
+<br />
 
 ## Skills
 
 Learn more about what makes me great! As a lifelong continuous learner, I enjoy perfecting my core skillset while also adding areas of interest and challenge! I've compiled a semi-exhaustive list of my skills, and I look forward to continuing to add to this list over time.
 
 Take a deep dive into my skillset by <a href="/SKILLS.md">Clicking Here.</a>
-
+<br />
 
 ## Software and Technology Expertise
 
