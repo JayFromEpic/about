@@ -3,9 +3,10 @@
 <p align="center">
     Over the years, I've had the privilege of working with and, in many cases, implementing an extensive list of technologies and software solutions. To best showcase this experience, I've broken down these technologies by category and included those in which I have an advanced to expert level of experience.
     <br />
-    This list is always evolving as I continue to experiment and research new and emerging technologies as part of my work.
-  </p>
+</p>
 
+> [!NOTE]
+> This list is always evolving as I continue to experiment and research new and emerging technologies as part of my work.
 <br />
 
 ## Software and Technology Solutions
