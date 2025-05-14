@@ -6,13 +6,13 @@
     Core Skills
     <br />
     <br />
-    Technical Product Management
+    <b>Technical Product Management
     ·
     Customer Success
-    .
+    ·
     Customer Experience
-    .
-    Leadership
+    ·
+    Leadership</b>
   </p>
 
 <br />
