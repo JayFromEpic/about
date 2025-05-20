@@ -17,32 +17,27 @@
     ·
     <a href="https://cal.com/yajdotnet">Book a Meeting with Me</a>
   </p>
-<!-- markdownlint-enable MD033 MD041 -->
-\
+<!-- markdownlint-enable MD033 MD041 -->  
 
 # About Jay Dubinsky
 
 In short, I'm a techie at heart with a strong passion for business. Throughout my career, I've founded several technology companies and led Customer Success, Customer Experience, and Product Management organizations of various sizes.
 
-My passion lies in leveraging advanced technologies to deliver exceptional end-user products and experiences that solve complex challenges.
-\
+My passion lies in leveraging advanced technologies to deliver exceptional end-user products and experiences that solve complex challenges.  
 
 ## Contacting Me
 
-Feel free to reach out to me via LinkedIn or schedule time for us to connect by [Clicking Here.](https://cal.com/yajdotnet)
-\
+Feel free to reach out to me via LinkedIn or schedule time for us to connect by [Clicking Here.](https://cal.com/yajdotnet)  
 
 ## Experience
 
-Please review my [LinkedIn](https://www.linkedin.com/in/yajdotnet/) for the most up-to-date version of my resume and experiences.
-\
+Please review my [LinkedIn](https://www.linkedin.com/in/yajdotnet/) for the most up-to-date version of my resume and experiences.  
 
 ## Skills
 
 Learn more about what makes me great! As a lifelong continuous learner, I enjoy perfecting my core skillset while also adding areas of interest and challenge! I've compiled a semi-exhaustive list of my skills, and I look forward to continuing to add to this list over time.
 
-Take a deep dive into my skillset by please [Clicking Here.](/SKILLS.md)
-\
+Take a deep dive into my skillset by please [Clicking Here.](/SKILLS.md)  
 
 ## Software and Technology Expertise
 

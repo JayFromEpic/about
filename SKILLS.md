@@ -7,7 +7,6 @@
     <br />
     <b>Core Competencies</b>
     <br />
-    <br />
     <b>Technical Product Management
     ·
     Customer Success
