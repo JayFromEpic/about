@@ -5,7 +5,7 @@
     Learn more about what makes me great! As a lifelong continuous learner, I enjoy perfecting my core skillset while also adding areas of interest and challenge! I've compiled a semi-exhaustive list of my skills, and I look forward to continuing to add to this list over time.
     <br />
     <br />
-    <b>Core Competencies</b>
+    <b><em>Core Competencies</em></b>
     <br />
     <b>Technical Product Management
     ·
