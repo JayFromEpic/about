@@ -16,8 +16,8 @@
     ·
     Leadership</b>
   </p>
-<!-- markdownlint-enable MD033 -->
 <br />
+<!-- markdownlint-enable MD033 -->
 
 ## Product Skills
 
@@ -51,13 +51,13 @@
 * Product Adoption
 * Product Delivery
 * Product Experience
+* Product Growth
 * Product Implementation
 * Product Support
 * Project Management
 * Scaled Customer Success and Experience
 * Service Delivery
 * User Feedback
-
 
 ## Leadership and Business Operations
 
@@ -86,7 +86,6 @@
 * Strategy Implementation
 * Team Building
 * Technical Operations
-
 
 ## Technical
 
@@ -140,11 +139,23 @@
 
 ## Marketing
 
+* Campaign Management
 * Creative Writing
+* Demand Side Platforms
+* Digital Advertising
+* Direct Advertising
+* Display Advertising
+* DOOH Advertising
 * Marketing Automation
+* Marketing Strategy
+* Media Planning
+* OTT Advertising
+* PMP (Private Marketplace)
+* Programmatic Advertising
+* Public Relations
+* Radio Advertising
+* Social Media Advertising
 * Social Media Management
-
-***This section is being updated currently and is by no means exhaustive or complete***
 
 ## Misc Skills
 

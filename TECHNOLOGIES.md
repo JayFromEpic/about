@@ -5,21 +5,20 @@
     Over the years, I've had the privilege of working with and, in many cases, implementing an extensive list of technologies and software solutions. To best showcase this experience, I've broken down these technologies by category and included those in which I have an advanced to expert level of experience.
     <br />
 </p>
-<!-- markdownlint-enable MD033 -->
+
 > [!NOTE]
 > This list is always evolving as I continue to experiment and research new and emerging technologies as part of my work.
 <br />
+<!-- markdownlint-enable MD033 -->
 
-## Software and Technology Solutions
-
-### AI
+## AI
 
 * ChatGPT by OpenAI
 * Claude by Anthropic
 * Copilot by Microsoft
 * Gemini by Google
 
-### Cloud Providers
+## Cloud Providers
 
 * Amazon AWS
 * DigitalOcean
@@ -30,7 +29,7 @@
 * Vercel
 * Vultr
 
-### CRM and ERP Systems
+## CRM and ERP Systems
 
 * Dynamics 365
 * Freshsales
@@ -38,7 +37,7 @@
 * NetSuite
 * Salesforce
 
-### Customer Success and Support Software
+## Customer Success and Support Software
 
 * Dynamics 365 Customer Service
 * Dynamics 365 Field Service
@@ -54,15 +53,14 @@
 * Zendesk
 * Zoom
 
-### Data Visualization, Connection, and Exploration
+## Data Visualization, Connection, and Exploration
 
 * DBeaver
 * Microsoft Power BI
 * Qlik
 * Zapier
 
-
-### Dev, Design, and Product
+## Dev, Design, and Product
 
 * Adobe Suite
 * Atlassian Suite
@@ -81,14 +79,14 @@
 * Visual Studio Code
 * Wordpress
 
-### Email and Collaboration
+## Email and Collaboration
 
 * Asana
 * Google Workspace
 * Microsoft 365 / Office 365
 * Monday.com
 
-### HRIS Solutions
+## HRIS Solutions
 
 * ADP Workforce Now
 * Gusto
@@ -96,7 +94,7 @@
 * Quickbooks
 * Rippling
 
-### Marketing Platforms and Tools
+## Marketing Platforms and Tools
 
 * Amplitude
 * Apollo.io
@@ -116,10 +114,14 @@
 * Microsoft Clarity
 * SEM Rush
 * Sendgrid
+* Simpli.fi
+* StackAdapt
+* The Nueron
+* The Trade Desk
 * Twilio
 * Zoominfo
 
-### Networking
+## Networking
 
 * Bunny.net
 * Cisco Meraki
@@ -129,7 +131,7 @@
 * Sonic Wall
 * Ubiquiti
 
-### Operating Systems
+## Operating Systems
 
 * Alma Linux
 * CentOS
@@ -143,7 +145,7 @@
 * Ubuntu
 * Windows
 
-### Security
+## Security
 
 * Blurp Suite
 * Lansweeper
@@ -155,7 +157,7 @@
   * Vulnerability Management
   * Web App Scanning
 
-### System Administration
+## System Administration
 
 * Atera
 * Jamf
@@ -164,7 +166,7 @@
 * SyncroMSP
 * Termius
 
-### UCC / Voice
+## UCC / Voice
 
 * 3CX
 * 8x8
@@ -173,7 +175,7 @@
 * Nextiva
 * Zoom Phone
 
-### Virtualization
+## Virtualization
 
 * Docker
 * Hyper-V

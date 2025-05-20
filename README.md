@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD033 MD041 -->
 <!-- headshot and intro -->
 <p align="center">
   <a href="https://github.com/JayFromEpic/about">
@@ -13,39 +13,39 @@
     Stick around to learn more about my experience, various skills, and expansive software expertise.
     <br />
     <br />
-    [LinkedIn](https://www.linkedin.com/in/yajdotnet/)
+    <a href="https://www.linkedin.com/in/yajdotnet/">LinkedIn</a>
     ·
-    [Book a Meeting with Me](https://cal.com/yajdotnet)
+    <a href="https://cal.com/yajdotnet">Book a Meeting with Me</a>
   </p>
-<!-- markdownlint-enable MD033 -->
-<br />
+<!-- markdownlint-enable MD033 MD041 -->
+\
 
 # About Jay Dubinsky
 
 In short, I'm a techie at heart with a strong passion for business. Throughout my career, I've founded several technology companies and led Customer Success, Customer Experience, and Product Management organizations of various sizes.
 
 My passion lies in leveraging advanced technologies to deliver exceptional end-user products and experiences that solve complex challenges.
-<br />
+\
 
 ## Contacting Me
 
 Feel free to reach out to me via LinkedIn or schedule time for us to connect by [Clicking Here.](https://cal.com/yajdotnet)
-<br />
+\
 
 ## Experience
 
 Please review my [LinkedIn](https://www.linkedin.com/in/yajdotnet/) for the most up-to-date version of my resume and experiences.
-<br />
+\
 
 ## Skills
 
 Learn more about what makes me great! As a lifelong continuous learner, I enjoy perfecting my core skillset while also adding areas of interest and challenge! I've compiled a semi-exhaustive list of my skills, and I look forward to continuing to add to this list over time.
 
-Take a deep dive into my skillset by [please Clicking Here.](/SKILLS.md)
-<br />
+Take a deep dive into my skillset by please [Clicking Here.](/SKILLS.md)
+\
 
 ## Software and Technology Expertise
 
-Over the years, I've had the privilege of working with and, in many cases, implementing an extensive list of technologies and software solutions. To best showcase this experience, I've broken down these technologies by category and included those in which I have an advanced to expert level of experience. 
+Over the years, I've had the privilege of working with and, in many cases, implementing an extensive list of technologies and software solutions. To best showcase this experience, I've broken down these technologies by category and included those in which I have an advanced to expert level of experience.
 
-To review my ever evolving list, [please Click Here.](/TECHNOLOGIES.md)
+To review my ever evolving list, please [Click Here.](/TECHNOLOGIES.md)
