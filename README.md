@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 <!-- headshot and intro -->
 <p align="center">
   <a href="https://github.com/JayFromEpic/about">
@@ -12,11 +13,11 @@
     Stick around to learn more about my experience, various skills, and expansive software expertise.
     <br />
     <br />
-    <a href="https://www.linkedin.com/in/yajdotnet/">LinkedIn</a>
+    [LinkedIn](https://www.linkedin.com/in/yajdotnet/)
     ·
-    <a href="https://cal.com/yajdotnet">Book a Meeting with Me</a>
+    [Book a Meeting with Me](https://cal.com/yajdotnet)
   </p>
-
+<!-- markdownlint-enable MD033 -->
 <br />
 
 # About Jay Dubinsky
@@ -28,23 +29,23 @@ My passion lies in leveraging advanced technologies to deliver exceptional end-u
 
 ## Contacting Me
 
-Feel free to reach out to me via LinkedIn or schedule time for us to connect by <a href="https://cal.com/yajdotnet">CLICKING HERE.</a>
+Feel free to reach out to me via LinkedIn or schedule time for us to connect by [Clicking Here.](https://cal.com/yajdotnet)
 <br />
 
 ## Experience
 
-Please review my <a href="https://www.linkedin.com/in/yajdotnet/">LinkedIn</a> for the most up-to-date version of my resume and experiences.
+Please review my [LinkedIn](https://www.linkedin.com/in/yajdotnet/) for the most up-to-date version of my resume and experiences.
 <br />
 
 ## Skills
 
 Learn more about what makes me great! As a lifelong continuous learner, I enjoy perfecting my core skillset while also adding areas of interest and challenge! I've compiled a semi-exhaustive list of my skills, and I look forward to continuing to add to this list over time.
 
-Take a deep dive into my skillset by <a href="/SKILLS.md">Clicking Here.</a>
+Take a deep dive into my skillset by [please Clicking Here.](/SKILLS.md)
 <br />
 
 ## Software and Technology Expertise
 
 Over the years, I've had the privilege of working with and, in many cases, implementing an extensive list of technologies and software solutions. To best showcase this experience, I've broken down these technologies by category and included those in which I have an advanced to expert level of experience. 
 
-To review my ever evolving list, <a href="/TECHNOLOGIES.md">Click Here.</a>
+To review my ever evolving list, [please Click Here.](/TECHNOLOGIES.md)

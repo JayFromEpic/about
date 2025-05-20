@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 -->
 <h1 align="center">My Skills</h1>
 
 <p align="center">
@@ -15,7 +16,7 @@
     ·
     Leadership</b>
   </p>
-
+<!-- markdownlint-enable MD033 -->
 <br />
 
 ## Product Skills
